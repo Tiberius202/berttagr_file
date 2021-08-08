@@ -1,5 +1,5 @@
 [package]
-name = "rustlib"
+name = "berttagr"
 version = "0.1.0"
 authors = ["Tiberius202 <Tiberius202@gmail.com>"]
 edition = "2018"
